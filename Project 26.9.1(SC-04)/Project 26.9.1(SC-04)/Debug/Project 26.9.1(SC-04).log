@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\VS 2019\С++\Project 26.9.1(SC-04)\Project 26.9.1(SC-04)\main.cpp(18,15): warning C4244: инициализация: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+D:\VS 2019\С++\Project 26.9.1(SC-04)\Project 26.9.1(SC-04)\main.cpp(24,62): warning C4244: =: преобразование "_Rep" в "long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  sum_array.cpp
+D:\VS 2019\С++\Project 26.9.1(SC-04)\Project 26.9.1(SC-04)\sum_array.cpp(11,20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\VS 2019\С++\Project 26.9.1(SC-04)\Project 26.9.1(SC-04)\sum_array.cpp(45,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Project 26.9.1(SC-04).vcxproj -> D:\VS 2019\С++\Project 26.9.1(SC-04)\Debug\Project 26.9.1(SC-04).exe
